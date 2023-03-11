@@ -27,3 +27,4 @@ otro plastico
 1ero de julio algo para mostrar en el wordpress.
 
 Pensar como se van a cargar los datos
+posiblemente un .csv en el github
