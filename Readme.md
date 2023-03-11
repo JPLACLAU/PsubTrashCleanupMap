@@ -28,3 +28,16 @@ otro plastico
 
 Pensar como se van a cargar los datos
 posiblemente un .csv en el github
+
+---
+
+URLS:
+https://www.google.com/maps/d/u/0/viewer?hl=es&mid=12cmOiT3ewc_rLJZB14O0OOEvVxUJnc1V&ll=-42.63044676455035%2C-63.965131729881705&z=9
+
+https://microplasticsurvey.org/results
+
+https://www.proyectosub.org.ar/microplasticos-costeros/
+
+https://github.com/JPLACLAU/PsubTrashCleanupMap
+
+https://reactjsexample.com/tag/maps/
